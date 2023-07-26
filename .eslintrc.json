@@ -10,6 +10,8 @@
         "sourceType": "module"
     },
     "rules": {
+		"guard-for-in": "warn",
+		"no-param-reassign": "warn",
 		"no-new": "warn",
 		"no-underscore-dangle": "off",
 		"no-unused-vars": "warn",
